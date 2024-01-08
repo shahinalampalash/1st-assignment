@@ -32,8 +32,36 @@ h3{
   }
   #b{
     font-size: 70px;
+    
   }
   #c{
     color: #070211;
     padding: 10px 20px;
   }
+  .e{
+    font-size: 20px; 
+    color: #fff;
+    text-align: center;
+    
+    
+  }
+  .d{
+    position: relative;
+    display: inline-block;
+  }
+  
+  .d{
+   
+  width: 1320;
+    height: 600;
+    margin: 100px 300px 50px;
+  }
+  
+  .e{
+    position: absolute;
+    padding: 10px 20px; 
+    font-size: 20px; 
+    text-align: center;
+  }
+  
+  
